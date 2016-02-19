@@ -1,0 +1,1000 @@
+ 1030  app/console doctrine:database:drop --force
+ 1031  app/console doctrine:database:create
+ 1032  app/console doctrine:database:drop --force
+ 1033  app/console doctrine:database:create
+ 1034  app/console doctrine:schema:update --force
+ 1035  app/console doctrine:database:drop --force
+ 1036  app/console doctrine:database:create
+ 1037  app/console doctrine:schema:update --force
+ 1038  app/console doctrine:database:drop --force
+ 1039  app/console doctrine:database:create
+ 1040  app/console doctrine:schema:update --force
+ 1041  app/console doctrine:database:drop --force
+ 1042  app/console doctrine:database:create
+ 1043  app/console doctrine:schema:update --force
+ 1044  status
+ 1045  app/console doctrine:schema:update --dump-sql
+ 1046  exit
+ 1047  sensors
+ 1048  htop
+ 1049  sensors
+ 1050  sudo badblocks -s /dev/sda6 > errors.txt
+ 1051  sudo badblocks -s /dev/sda5 > errors.txt
+ 1052  sudo badblocks -s /dev/sda2 > errors.txt
+ 1053  sudo badblocks -s /dev/sda7 > errors.txt
+ 1054  sensors
+ 1055  htop
+ 1056  exit
+ 1057  app/console doctrine:s:u --force
+ 1058  composer install
+ 1059  composer
+ 1060  composer sho
+ 1061  composer show -v |grep doctrine
+ 1062  composer show -v |grep ^doctrine
+ 1063  composer show -v |grep doctrine/
+ 1064  composer 
+ 1065  composer info -v |grep doctrine/
+ 1066  composer info doctrine |grep doctrine/
+ 1067  composer info doctrine
+ 1068  htop
+ 1069  sensors
+ 1070  cd works/football2016.loc/
+ 1071  git-sh
+ 1072  gui
+ 1073  add .
+ 1074  commit
+ 1075  status
+ 1076  app/console doctrine:database:drop --force
+ 1077  app/console doctrine:database:create
+ 1078  app/console doctrine:database:update --force
+ 1079  app/console doctrine:shema:update --force
+ 1080  app/console doctrine:database:update --force
+ 1081  app/console doctrine:schema:update --force
+ 1082  app/console doctrine:database:drop --force
+ 1083  app/console doctrine:database:create
+ 1084  app/console doctrine:schema:update --force
+ 1085  add .
+ 1086  commit
+ 1087  status
+ 1088  app/console doctrine:database:drop --force
+ 1089  app/console doctrine:database:c
+ 1090  app/console doctrine:schema:update --force
+ 1091  app/console h:d:f:l
+ 1092  composer require --dev doctrine/doctrine-fixtures-bundle
+ 1093  app/console h:d:f:l
+ 1094  add .
+ 1095  status
+ 1096  commit
+ 1097  status
+ 1098  add .
+ 1099  commit
+ 1100  status
+ 1101  app/console generate:entity
+ 1102  app/console doctrine:generate:entity
+ 1103  app/console doctrine:schema:update --force
+ 1104  app/console doctrine:schema:v
+ 1105  app/console h:d:f:l
+ 1106  app/console doctrine:schema:update --force
+ 1107  app/console h:d:f:l
+ 1108  app/console doctrine:schema:d
+ 1109  app/console doctrine:schema:d --force
+ 1110  app/console doctrine:schema:update --force
+ 1111  app/console h:d:f:l
+ 1112  app/console doctrine:schema:update --force
+ 1113  app/console h:d:f:l
+ 1114  app/console doctrine:schema:update --force
+ 1115  app/console h:d:f:l
+ 1116  app/console doctrine:schema:update --force
+ 1117  app/console h:d:f:l
+ 1118  add .
+ 1119  commit 
+ 1120  status
+ 1121  add .
+ 1122  commit
+ 1123  add .
+ 1124  commit
+ 1125  add .
+ 1126  commit
+ 1127  push origin dev 
+ 1128  htop
+ 1129  app/console h:d:f:l
+ 1130  add .
+ 1131  commit
+ 1132  app/console doctrine:schema:update --force
+ 1133  app/console doctrine:schema:d --force
+ 1134  app/console doctrine:database:d --force
+ 1135  app/console doctrine:
+ 1136  app/console doctrine:schema:update --force
+ 1137  app/console h:d:f:l
+ 1138  add diagram.png 
+ 1139  commit
+ 1140  status
+ 1141  add .
+ 1142  app/console h:d:f:l
+ 1143  app/console doctrine:database:d --force
+ 1144  app/console doctrine:database:c
+ 1145  app/console doctrine:schema:update --force
+ 1146  app/console h:d:f:l
+ 1147  add .
+ 1148  commit
+ 1149  bin/phpunit -c app
+ 1150  status
+ 1151  add .
+ 1152  commit
+ 1153  push origin dev 
+ 1154  bin/phpunit -c app
+ 1155  htop
+ 1156  bin/phpunit -c app
+ 1157  status
+ 1158  gulp
+ 1159  add install.sh 
+ 1160  commit
+ 1161  push origin dev 
+ 1162  cd ..
+ 1163  cd football
+ 1164  ls
+ 1165  cd hw4.loc/
+ 1166  git init
+ 1167  git clone https://github.com/zrayev/sf_hw4
+ 1168  checkout dev
+ 1169  ls
+ 1170  cd sf_hw4/
+ 1171  ls
+ 1172  checkout dev
+ 1173  pull https://github.com/zrayev/sf_hw4 dev
+ 1174  ls
+ 1175  ls -la
+ 1176  status
+ 1177  cd web
+ 1178  ls
+ 1179  cd ..
+ 1180  cd football2016.loc/
+ 1181  status
+ 1182  cd ../hw4.loc/sf_hw4/
+ 1183  ~
+ 1184  cd ~
+ 1185  sudo gedit etc/hosts
+ 1186  cd etc
+ 1187  cd etc/
+ 1188  exit
+ 1189  cd works/football2016.loc/
+ 1190  status
+ 1191  git status
+ 1192  add .
+ 1193  git add .
+ 1194  git commit
+ 1195  git push origin dev 
+ 1196  app/console doctrine:database:drop --force
+ 1197  app/console doctrine:database:create
+ 1198  app/console doctrine:schema:update --force
+ 1199  app/console h:d:f:l
+ 1200  app/console doctrine:database:drop --force
+ 1201  app/console doctrine:database:create
+ 1202  app/console doctrine:schema:update --force
+ 1203  app/console h:d:f:l
+ 1204  app/console doctrine:database:drop --force
+ 1205  app/console doctrine:database:create
+ 1206  app/console doctrine:schema:update --force
+ 1207  status
+ 1208  git status
+ 1209  app/console doctrine:schema:update --force
+ 1210  app/console doctrine:database:drop --force
+ 1211  app/console doctrine:database:create
+ 1212  app/console doctrine:schema:update --force
+ 1213  app/console doctrine:schema:v
+ 1214  app/console doctrine:schema:update --force
+ 1215  app/console h:d:f:l
+ 1216  app/console doctrine:schema:update --force
+ 1217  app/console h:d:f:l
+ 1218  git-sh
+ 1219  cd etc
+ 1220  cd /etc
+ 1221  sudo gedit hosts
+ 1222  cd apache2/
+ 1223  ls
+ 1224  cd sites-available/
+ 1225  ls
+ 1226  sudo gedit football2016.conf 
+ 1227  sudo gedit hw4.con
+ 1228  sudo gedit hw4.conf 
+ 1229  cd ~/works/hw4.loc/
+ 1230  git status
+ 1231  install
+ 1232  ls
+ 1233  git init
+ 1234  git pull https://github.com/zrayev/sf_hw4 dev
+ 1235  bower install
+ 1236  ls
+ 1237  git init
+ 1238  git pull https://github.com/zrayev/sf_hw4 dev
+ 1239  git init
+ 1240  git pull https://github.com/zrayev/sf_hw4 dev
+ 1241  chmod +x install.sh
+ 1242  install.sh
+ 1243  ls
+ 1244  chmod +x install.sh
+ 1245  install.sh
+ 1246  ./install.sh
+ 1247  install.sh
+ 1248  ./install.sh
+ 1249  git init
+ 1250  git pull https://github.com/zrayev/sf_hw4 dev
+ 1251  chmod +x install.sh
+ 1252  ./install.sh
+ 1253  3
+ 1254  ./install.sh
+ 1255  npm install gulp
+ 1256  gulp
+ 1257  npm install gulp
+ 1258  gulp
+ 1259  install gulp
+ 1260  npm install gulp
+ 1261  gulp
+ 1262  npm install --save-dev gulp
+ 1263  gulp
+ 1264  git init
+ 1265  git pull https://github.com/zrayev/sf_hw4 dev
+ 1266  chmod +x install.sh
+ 1267  ./install.sh
+ 1268  git init
+ 1269  git pull https://github.com/zrayev/sf_hw4 dev
+ 1270  chmod +x install.sh
+ 1271  ./install.sh
+ 1272  git init
+ 1273  git pull https://github.com/zrayev/sf_hw4 dev
+ 1274  chmod +x install.sh
+ 1275  ./install.sh
+ 1276  gulp
+ 1277  npm install gulp
+ 1278  sudo npm install gulp
+ 1279  gulp
+ 1280  npm install --save-dev gulp
+ 1281  sudo npm install --save-dev gulp
+ 1282  gulp
+ 1283  npm link gulp
+ 1284  gulp
+ 1285  npm install --save-dev gulp-install
+ 1286  sudo npm install --save-dev gulp-install
+ 1287  gulp
+ 1288  cd works/hw4.loc/
+ 1289  git init
+ 1290  ls
+ 1291  chmod +x install.sh
+ 1292  ./install.sh
+ 1293  gulp
+ 1294  sudo npm install gulp
+ 1295  gulp
+ 1296  ./install.sh
+ 1297  ls
+ 1298  package init
+ 1299  ls
+ 1300  gulp
+ 1301  npm install gulp -g
+ 1302  sudo npm install gulp -g
+ 1303  gulp
+ 1304  npm install gulp --save-dev
+ 1305  chmod +x install.sh
+ 1306  git push origin dev
+ 1307  gui
+ 1308  commit
+ 1309  status
+ 1310  gui
+ 1311  status
+ 1312  push origin dev 
+ 1313  add README.md 
+ 1314  commit
+ 1315  push origin dev 
+ 1316  status
+ 1317  add install.sh 
+ 1318  comit
+ 1319  commit
+ 1320  push origin dev 
+ 1321  add install.sh 
+ 1322  commit 
+ 1323  push origin dev 
+ 1324  add install.sh 
+ 1325  commit
+ 1326  push origin dev 
+ 1327  gulp
+ 1328  htop
+ 1329  gui
+ 1330  commit
+ 1331  gui
+ 1332  commit
+ 1333  app/console c:c
+ 1334  gulp
+ 1335  sensors
+ 1336  gui
+ 1337  app/console doctrine:s:u --force
+ 1338  app/console doctrine:database:d --force
+ 1339  app/console doctrine:s:u --force
+ 1340  app/console doctrine:database:c
+ 1341  app/console doctrine:s:u --force
+ 1342  app/console h:d:f:l
+ 1343  app/console doctrine:database:d --force
+ 1344  app/console doctrine:database:c
+ 1345  app/console doctrine:s:u --force
+ 1346  app/console h:d:f:l
+ 1347  gui
+ 1348  commit
+ 1349  gui
+ 1350  commit
+ 1351  commit -m'edit install'
+ 1352  gui
+ 1353  status
+ 1354  commit -m 'edit less and fixture'
+ 1355  status
+ 1356  git push origin dev 
+ 1357  status
+ 1358  add .
+ 1359  commit
+ 1360  push origin dev 
+ 1361  htop
+ 1362  status
+ 1363  add .
+ 1364  commit
+ 1365  status
+ 1366  add .
+ 1367  commit
+ 1368  push origin dev 
+ 1369  status
+ 1370  cd works/football2016.loc/
+ 1371  gedit install.sh 
+ 1372  git-sh
+ 1373  ді
+ 1374  ls
+ 1375  wget -r
+ 1376  wget --help
+ 1377  ls -la
+ 1378  cd symfony
+ 1379  mkdir symfony
+ 1380  cd symfony
+ 1381  wget -r -k -l 7 -p -E -nc http://symfony.com/
+ 1382  cd works/
+ 1383  cd hw4.loc/
+ 1384  git init
+ 1385  git remote add origin https://github.com/zrayev/blog.git
+ 1386  git-sh
+ 1387  ls -la
+ 1388  symfony new my_project 2.8
+ 1389  ls -la
+ 1390  statu
+ 1391  status
+ 1392  add .
+ 1393  commit
+ 1394  push origin master 
+ 1395  branch dev
+ 1396  checkout dev 
+ 1397  status
+ 1398  composer init
+ 1399  composer install
+ 1400  curl -sS https://getcomposer.org/installer | php
+ 1401  php composer.phar install
+ 1402  npm install
+ 1403  sydo npm install
+ 1404  sudo npm install
+ 1405  bower install
+ 1406  npm install --save gulp-install
+ 1407  gulp
+ 1408  status
+ 1409  add .
+ 1410  commit
+ 1411  status
+ 1412  commit
+ 1413  status
+ 1414  commit
+ 1415  status
+ 1416  push origin dev 
+ 1417  ls -la
+ 1418  gedit README.md 
+ 1419  git push origin dev 
+ 1420  ls -la
+ 1421  gedit README.md 
+ 1422  add .
+ 1423  commit
+ 1424  git push origin dev 
+ 1425  phpunit -c app
+ 1426  ls
+ 1427  ./install.sh 
+ 1428  3
+ 1429  gulp
+ 1430  status
+ 1431  gui
+ 1432  add .
+ 1433  commit
+ 1434  ls-la
+ 1435  ls -la
+ 1436  app/console c:c
+ 1437  htop
+ 1438  gulp
+ 1439  cd works/hw4.loc/
+ 1440  gulp
+ 1441  пгдз
+ 1442  gulp
+ 1443  gui
+ 1444  status
+ 1445  gui
+ 1446  commit
+ 1447  cd works/hw4.loc/
+ 1448  ls -la
+ 1449  ./install.sh 
+ 1450  ls -la
+ 1451  git-sh
+ 1452  cd works/
+ 1453  ls
+ 1454  cd hw4.loc/
+ 1455  ls
+ 1456  git-sh
+ 1457  app/console debug:router
+ 1458  app/console c:c
+ 1459  status
+ 1460  add app/config/services.yml 
+ 1461  status
+ 1462  gui
+ 1463  status
+ 1464  commit
+ 1465  add .
+ 1466  commit
+ 1467  sensors
+ 1468  gui
+ 1469  gulp
+ 1470  htop
+ 1471  phpunit -c app/
+ 1472  ./install.sh 
+ 1473  ls -la
+ 1474  gui
+ 1475  commit
+ 1476  ls -la
+ 1477  gui
+ 1478  commit
+ 1479  ls -la
+ 1480  app/console doctrine:generate:entiny
+ 1481  app/console doctrine:generate:entity
+ 1482  ls -la
+ 1483  app/console d:s:u --force
+ 1484  date
+ 1485  cal
+ 1486  pwd
+ 1487  cd ./bin
+ 1488  ls
+ 1489  cd ~
+ 1490  ls
+ 1491  exit
+ 1492  htop
+ 1493  cd works/hw4.loc/
+ 1494  git-sh
+ 1495  cd ~
+ 1496  ls
+ 1497  cd ~dmitry
+ 1498  vim
+ 1499  ls /usr
+ 1500  cd usr
+ 1501  cd/ucr
+ 1502  cd /usr
+ 1503  ls
+ 1504  ls -l
+ 1505  ls -a
+ 1506  ls -t
+ 1507  ls -lt
+ 1508  ls -lt -all
+ 1509  ls -lt --all
+ 1510  ls -lt --reverse
+ 1511  cd ~
+ 1512  less /ets/passwd
+ 1513  ls
+ 1514  mkdir com
+ 1515  cd com/
+ 1516  ls
+ 1517  cd com/
+ 1518  mkdir com
+ 1519  cp com/
+ 1520  mv com/
+ 1521  ln com/
+ 1522  cp -u
+ 1523  cp -u *
+ 1524  gedit  ad.txt
+ 1525  cp -u *
+ 1526  ls
+ 1527  mkdir akdjk kjasd kjasdj kajdk
+ 1528  ls
+ 1529  cd com wj
+ 1530  ls
+ 1531  ls -la
+ 1532  mkdir asdjjk  kasdjk 
+ 1533  ls -la
+ 1534  cp asd
+ 1535  ls -la
+ 1536  cp asd
+ 1537  cp ad
+ 1538  cd com
+ 1539  cd  ..
+ 1540  ls
+ 1541  cp com
+ 1542  ls -la
+ 1543  cp ad.txt dsghfg.txt
+ 1544  ls
+ 1545  gedit dsghfg.txt 
+ 1546  ls
+ 1547  rm akdjk/
+ 1548  rm akdjk/ -r
+ 1549  ls
+ 1550  sensors
+ 1551  conky
+ 1552  ls
+ 1553  ln kajdk lakdk
+ 1554  ln kajdk/ lakdk/
+ 1555  ln kajdk/ lakdk/ -r
+ 1556  ln ad.txt dfd.txt
+ 1557  ls
+ 1558  type
+ 1559  type 
+ 1560  type -a
+ 1561  type add
+ 1562  typels
+ 1563  type ls
+ 1564  which ls
+ 1565  which gedit
+ 1566  which conky
+ 1567  which php
+ 1568  which cp
+ 1569  man program
+ 1570  man php
+ 1571  man ls
+ 1572  which php
+ 1573  ver ls
+ 1574  php -v
+ 1575  ls -v
+ 1576  cal -v
+ 1577  php --v
+ 1578  php --rf index
+ 1579  php --rf ls
+ 1580  php --rf set
+ 1581  php --rf get
+ 1582  man 5 passwd
+ 1583  man passwd
+ 1584  apropos floppy
+ 1585  ls
+ 1586  type ad.txt
+ 1587  type foo
+ 1588  type -la
+ 1589  type -ls
+ 1590  type ls
+ 1591  alias
+ 1592  alias ls
+ 1593  ls -la > ou.txt
+ 1594  ls -la
+ 1595  gedit ou.txt 
+ 1596  cat ou.txt 
+ 1597  gedit ou.txt 
+ 1598  wc ou.txt 
+ 1599  grep pattern ad.txt 
+ 1600  ls
+ 1601  gedit ad.txt \
+ 1602  echo kdjf
+ 1603  ls
+ 1604  echo *
+ 1605  echo ad.txt 
+ 1606  echo D* 
+ 1607  echo *s
+ 1608  echo .*
+ 1609  ls -la
+ 1610  ls -d .*| txt
+ 1611  ls -d .* | txt
+ 1612  echo~
+ 1613  echo ~
+ 1614  echo $((2*89))
+ 1615  echo $((2*89)-8)
+ 1616  echo $(((2*89)-8))
+ 1617  echo $(2**)
+ 1618  echo $(2**2)
+ 1619  echo $((2**2))
+ 1620  echo $((2**3))
+ 1621  echo $((2**10))
+ 1622  mkdir {1000..1020}-0{1..9}
+ 1623  ls
+ 1624  mkdir {1000..2020}-0{1..9}
+ 1625  sensors
+ 1626  echo$user
+ 1627  echo $user
+ 1628  echo $SUER
+ 1629  echo $USER
+ 1630  echo $VER
+ 1631  echo $V
+ 1632  echo $VAR
+ 1633  echo $ls
+ 1634  echo $php
+ 1635  echo $PHP
+ 1636  echo $time
+ 1637  echo $TIME
+ 1638  echo $cal
+ 1639  echo $(cal)
+ 1640  echo "$(cal)"
+ 1641  echo "$(cal)" > a.txt
+ 1642  gedit a.txt 
+ 1643  echo "$(cal)" > a.txt
+ 1644  gedit a.txt 
+ 1645  echo "$(cal)"
+ 1646  echo $(cal)
+ 1647  echo $(ls)
+ 1648  echo $(php-v)
+ 1649  echo $(php -v)
+ 1650  echo $(php -v)  > asd.txt
+ 1651  gedit asd.txt
+ 1652  echo "$(php -v)"  > asd.txt
+ 1653  gedit asd.txt
+ 1654  echo \$5
+ 1655  echo $USER \$5
+ 1656  history
+ 1657  echo "$(history)" > history.txt
+ 1658  gedit history.txt 
+ 1659  clear
+ 1660  history
+ 1661  wwlwe
+ 1662  ssdfjkj
+ 1663  kjskdfj
+ 1664  sdf
+ 1665  s
+ 1666  df
+ 1667  f
+ 1668  sdf
+ 1669  d
+ 1670  f
+ 1671  d
+ 1672  f
+ 1673  df
+ 1674  history
+ 1675  dfls D
+ 1676  ls
+ 1677  history 
+ 1678  history | less
+ 1679  history
+ 1680  history | less > sd
+ 1681  gedit sd 
+ 1682  !
+ 1683  !!
+ 1684  !
+ 1685  !!
+ 1686  !!!
+ 1687  ls
+ 1688  cd com/m
+ 1689  cd com/
+ 1690  htop
+ 1691  cd works/
+ 1692  cd hw4.loc/
+ 1693  git-sh
+ 1694  app/console doctrine:schema:u --force
+ 1695  nemo
+ 1696  gulp
+ 1697  htop
+ 1698  sudo gedit /etc/default/grub
+ 1699  update-grub
+ 1700  sudo update-grub
+ 1701  sudo gedit /boot/grub/grub.cfg 
+ 1702  sudo update-grub
+ 1703  sudo cfdisk
+ 1704  gedit /etc/fstab
+ 1705  history
+ 1706  gedit
+ 1707  sudo gedit /boot/grub/grub.cfg 
+ 1708  sudo gedit /etc/default/grub
+ 1709  cd works/hw4.loc/
+ 1710  ls
+ 1711  git-sh
+ 1712  gui
+ 1713  htop
+ 1714  gedit
+ 1715  htop
+ 1716  cd works/symfonytest/
+ 1717  git init
+ 1718  rm -rf app/cache/*
+ 1719  HTTPDUSER=`ps axo user,comm | grep -E '[a]pache|[h]ttpd|[_]www|[w]ww-data|[n]ginx' | grep -v root | head -1 | cut -d\  -f1`
+ 1720  sudo setfacl -dR -m u:"$HTTPDUSER":rwX -m u:`whoami`:rwX app/cache app/logs
+ 1721  gulp
+ 1722  sudo mpm install gulp
+ 1723  sudo npm install gulp
+ 1724  gulp
+ 1725  gulpfile.js
+ 1726  npm install
+ 1727  sudo npm install
+ 1728  gulp
+ 1729  bower install
+ 1730  gulp
+ 1731  htop
+ 1732  gulp
+ 1733  add .
+ 1734  commit 
+ 1735  push origin dev 
+ 1736  composer require stof/doctrine-extensions-bundle
+ 1737  /usr/local/bin/composer self-update
+ 1738  сomposer self-update
+ 1739  ~/usr/local/bin/composer self-update
+ 1740  ~usr/local/bin/composer self-update
+ 1741  composer self-update
+ 1742  composer require stof/doctrine-extensions-bundle
+ 1743  htop
+ 1744  composer.ph self-update
+ 1745  /usr/local/bin/composer self-update
+ 1746  /usr/local/bin/composer self-update -r
+ 1747  /usr/local/bin/composer self-update
+ 1748  sudo /usr/local/bin/composer self-update 
+ 1749  composer require knplabs/knp-menu-bundle
+ 1750  composer require knplabs/knp-menu
+ 1751  gui
+ 1752  commit
+ 1753  composer require friendsofsymfony/comment-bundle
+ 1754  gui
+ 1755  commit 
+ 1756  composer require stof/doctrine-extensions-bundle
+ 1757  app/console docrtine:s:u --force
+ 1758  app/console docrtine:schema:u --force
+ 1759  app/console doctrine:schema:u --force
+ 1760  htop
+ 1761  gui
+ 1762  add .
+ 1763  commit
+ 1764  push origin dev 
+ 1765  cd works/hw4.loc/
+ 1766  bover -v
+ 1767  npm install
+ 1768  bower install
+ 1769  npm install -g bower
+ 1770  gulp
+ 1771  bower install
+ 1772  npm install
+ 1773  gulp
+ 1774  bower install
+ 1775  gulp
+ 1776  git push origin dev 
+ 1777  gulp
+ 1778  status
+ 1779  git status
+ 1780  add .
+ 1781  git-sh
+ 1782  cd works/hw4.loc/
+ 1783  git-sh
+ 1784  composer install
+ 1785  swapoff -a
+ 1786  sudo swapoff -a 
+ 1787  composer require knplabs/knp-paginator-bundle
+ 1788  gulp
+ 1789  app/console doctrine:s:u --sorce
+ 1790  app/console doctrine:s:u --force
+ 1791  app/console doctrine:m:v
+ 1792  app/console doctrine:s:v
+ 1793  app/console doctrine:s:u --force
+ 1794  app/console c:c
+ 1795  app/console doctrine:s:u --force
+ 1796  htop
+ 1797  swapoff
+ 1798  swapoff -a
+ 1799  sudo swap -off
+ 1800  sudo swapoff -a
+ 1801  htop
+ 1802  gui
+ 1803  commit
+ 1804  gulp
+ 1805  htop
+ 1806  пгдз
+ 1807  gulp
+ 1808  git-sh
+ 1809  cd works/hw4.loc/
+ 1810  ls
+ 1811  composer require liip/imagine-bundle
+ 1812  ./composer.phar require liip/imagine-bundle
+ 1813  ./composer.phar require --dev doctrine/doctrine-fixtures-bundle
+ 1814  ./composer.phar require friendsofsymfony/comment-bundle
+ 1815  git gui
+ 1816  add .
+ 1817  commit
+ 1818  push origin dev 
+ 1819  htop
+ 1820  cd /etc/
+ 1821  ls
+ 1822  cd apache2/
+ 1823  ls
+ 1824  sd sites-available/
+ 1825  cd sites-available/
+ 1826  ls
+ 1827  sudo gedit hw4.loc
+ 1828  sudo gedit hw4.conf
+ 1829  gedit
+ 1830  htop
+ 1831  cd ~
+ 1832  cd works/hw4.loc/
+ 1833  git-sh
+ 1834  gui
+ 1835  /**
+ 1836  app/console doctrine:generate:entities AppBundle/Entity/Post
+ 1837  app/console doctrine:generate:entities AppBundle/Entity/Tag
+ 1838  app/console doctrine:s:u --forse
+ 1839  app/console doctrine:s:u --force
+ 1840  app/console doctrine:generate:entities AppBundle/Entity/Author
+ 1841  app/console doctrine:generate:entities AppBundle/Entity/Category
+ 1842  app/console doctrine:s:u --force
+ 1843  htop
+ 1844  app/console doctrine:s:u --force
+ 1845  ls
+ 1846  gedit slug 
+ 1847  app/console doctrine:s:u --force
+ 1848  htop
+ 1849  app/console c:c
+ 1850  git status
+ 1851  git add .
+ 1852  commit
+ 1853  push origin dev 
+ 1854  pull origin dev -f
+ 1855  gui
+ 1856  push origin dev 
+ 1857  app/console doctrine:generate:entities AppBundle/Entity/Author
+ 1858  app/console doctrine:s:u --force
+ 1859  htop
+ 1860  gulp
+ 1861  рещз
+ 1862  htop
+ 1863  gulp
+ 1864  htop
+ 1865  gulp
+ 1866  htop
+ 1867  swap on
+ 1868  swapon
+ 1869  swapon -a
+ 1870  htop
+ 1871  cd works/hw4.loc/
+ 1872  ls-la
+ 1873  ls -la
+ 1874  git-sh
+ 1875  status
+ 1876  app/console c:c
+ 1877  ./app/console c:c
+ 1878  htop
+ 1879  ./app/console c:c
+ 1880  status
+ 1881  add .
+ 1882  status
+ 1883  commit
+ 1884  ./app/console c:c
+ 1885  add .
+ 1886  commit
+ 1887  htop
+ 1888  ./composer.phar require twig/extensions
+ 1889  status
+ 1890  push origin dev 
+ 1891  gulp
+ 1892  ./app/console c:c
+ 1893  gui
+ 1894  сщььшк
+ 1895  commit
+ 1896  add .
+ 1897  commit
+ 1898  status
+ 1899  git config --global http.proxy http://proxy.cic:3128
+ 1900  push origin dev 
+ 1901  htop
+ 1902  add .
+ 1903  commit
+ 1904  status
+ 1905  push origin dev 
+ 1906  ./app/console doctrine:s:u --force
+ 1907  sensors
+ 1908  htop
+ 1909  sensors
+ 1910  htop
+ 1911  gulp
+ 1912  cd works/hw4.loc/
+ 1913  gulp
+ 1914  htop
+ 1915  ./composer.phar require ircmaxell/password-compat "~1.0"
+ 1916  app/console security:encode-password
+ 1917  htop
+ 1918  sensors
+ 1919  htop
+ 1920  add .
+ 1921  commit
+ 1922  push origin dev 
+ 1923  gulp
+ 1924  app/console liip:imagine:cache:resolve 
+ 1925  apt-get install php5-gd
+ 1926  sudo apt-get install php5-gd
+ 1927  sudo apt-get earch php5-gd
+ 1928  sudo apt-get search php5-gd
+ 1929  sudo apt-get --hep
+ 1930  sudo apt-get --help
+ 1931  sudo apt-get search php5-gd2
+ 1932  sudo apt-get install php5-gd2
+ 1933  sudo apt-get install php5-gd
+ 1934  cd www
+ 1935  ls
+ 1936  cd web
+ 1937  sudo chmod -R 777 media/
+ 1938  status
+ 1939  add .
+ 1940  commit
+ 1941  ./composer.phar require friendsofsymfony/user-bundle "~2.0"
+ 1942  cd ..
+ 1943  ./composer.phar require friendsofsymfony/user-bundle "~2.0"
+ 1944  ./composer.phar require friendsofsymfony/user-bundle "~2.0@dev"
+ 1945  app/console doctrine:s:u --force
+ 1946  app/console fos:user:create
+ 1947  gulp
+ 1948  git config --global --unset http.proxy
+ 1949  push origin dev 
+ 1950  status
+ 1951  add .
+ 1952  fix bug and add user boundle
+ 1953  commit
+ 1954  push origin dev 
+ 1955  htop
+ 1956  ./app/console router:debug
+ 1957  gulp
+ 1958  gedit
+ 1959  ./app/console h:d:f:l
+ 1960  ./app/console security:encode-password
+ 1961  ./app/console h:d:f:l
+ 1962  add .
+ 1963  commit
+ 1964  push origin dev 
+ 1965  htop
+ 1966  app/console rouser debug
+ 1967  app/console router:debug
+ 1968  fos:user:create
+ 1969  gedit
+ 1970  ./app/console h:d:f:l
+ 1971  status
+ 1972  commit
+ 1973  cd ..
+ 1974  mkdir drim
+ 1975  cd drim/
+ 1976  git init
+ 1977  git clone https://github.com/zrayev/CheDream2
+ 1978  cd ../hw4.loc/
+ 1979  app/console c:cle
+ 1980  app/console c:w
+ 1981  app/console c:cle
+ 1982  app/console c:w
+ 1983  service apache2 restart
+ 1984  sudo service apache2 restart
+ 1985  git-sh
+ 1986  ls
+ 1987  cd works/hw4.loc/
+ 1988  git-sh
+ 1989  htop
+ 1990  status
+ 1991  add . 
+ 1992  commit
+ 1993  htop
+ 1994  git init
+ 1995  clone https://github.com/ShytN1k/test_git
+ 1996  pull
+ 1997  diff HEAD^
+ 1998  branch develop
+ 1999  checkout develop
+ 2000  branch
+ 2001  checkout -b proba-feature
+ 2002  ls
+ 2003  checkout master 
+ 2004  pull
+ 2005  pull https://github.com/ShytN1k/test_git
+ 2006  git branch 
+ 2007  gitk
+ 2008  sudo apt-get install gitk
+ 2009  gitk
+ 2010  git checkout proba-feature
+ 2011  checkout -b dmitry
+ 2012  status
+ 2013  commit -a -m "add file"
+ 2014  status
+ 2015  commit -a -m 'add file'
+ 2016  add .
+ 2017  status
+ 2018  commit -a -m 'add file'
+ 2019  checkout master 
+ 2020  pull
+ 2021  merge dmitry 
+ 2022  commit -a
+ 2023  ls
+ 2024  status
+ 2025  diff HEAD^
+ 2026  ls
+ 2027  checkout dmitry 
+ 2028  ls
+ 2029  history | less > sd
